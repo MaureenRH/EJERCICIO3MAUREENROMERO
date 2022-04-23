@@ -1,0 +1,30 @@
+.marca {
+
+    color: #ffff00;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+   
+
+}
+
+.marca:hover {
+
+    color: #008000;
+
+}
+
+.as {
+
+    color: #8000ff;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.as:hover {
+
+    color: #FF0000;
+
+}
